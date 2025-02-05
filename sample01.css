@@ -4,7 +4,7 @@ h1 {
 p {
   text-align: center;
 }
-.menu li {
+.menu ul {
   display: inline;
   margin: 2em;
 }
