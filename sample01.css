@@ -10,4 +10,5 @@ p {
 }
 .menu li {
   width: auto;
+  margin: 2em;
 }
