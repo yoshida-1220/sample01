@@ -8,3 +8,6 @@ p {
   display: flex;
   list-style: none;
 }
+.menu li {
+  width: auto;
+}
